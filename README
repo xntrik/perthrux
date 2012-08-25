@@ -1,0 +1,7 @@
+This is just my collection of Perth Ruxmon intros, notes, whatever.
+
+I normally open the sessions with a zoomed in term window and then:
+
+# cat notes | ./fuckppt.sh | more
+
+Bleh
